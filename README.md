@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aquarius-wing-actor-critic-thinking-mcp-badge.png)](https://mseep.ai/app/aquarius-wing-actor-critic-thinking-mcp)
+
 # Actor-Critic Thinking MCP Server
 
 A dual-perspective thinking analysis server based on Model Context Protocol (MCP), providing comprehensive performance evaluation through Actor-Critic methodology.
